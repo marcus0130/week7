@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './components/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import OfficeInformation from './components/OfficeInformation'
+import OfficeInformation from "./components/office"
 function App() {
   
   return (
