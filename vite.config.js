@@ -7,7 +7,7 @@ const outDir = resolve(__dirname, 'docs')
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/{week7}/',
+  base: '/week7/',
   build: {
     outDir,
     emptyOutDir: true
